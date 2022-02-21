@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenses-react-mini_project/static/css/main.bf535feb.css",
+    "main.js": "/expenses-react-mini_project/static/js/main.a82bbe3b.js",
+    "index.html": "/expenses-react-mini_project/index.html",
+    "main.bf535feb.css.map": "/expenses-react-mini_project/static/css/main.bf535feb.css.map",
+    "main.a82bbe3b.js.map": "/expenses-react-mini_project/static/js/main.a82bbe3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf535feb.css",
+    "static/js/main.a82bbe3b.js"
+  ]
+}
